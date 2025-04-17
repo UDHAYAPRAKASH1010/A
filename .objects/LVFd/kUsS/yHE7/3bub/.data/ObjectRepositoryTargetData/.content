@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L7__IgY170G1lZ30z6ELfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="b962915b-0651-41ad-8fea-03a0c3bd6d4c" CvElementArea="868, 566, 457, 48" CvType="InputBox" DesignTimeRectangle="871, 567, 451, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' tag='INPUT' class='form-control' placeholder='Search...' aaname='' /&gt;" Guid="d89b2599-c404-478f-a582-269c7f95ad42" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b962915b-0651-41ad-8fea-03a0c3bd6d4c" CvElementArea="868, 566, 457, 48" CvType="InputBox" DesignTimeRectangle="1296, 580, 20, 20" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='fa fa-search search-icon' aaname='' /&gt;" Guid="05c8edbd-195d-4b67-914e-d2b16951583f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e710b8f9e2ce88286077e0bfdb30e8d5.png" xmlns="">05LVwF7p6gUS9d0o9_EQBtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vehicle No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "GRGfhyRaNUyWNKkIxOyF_A",
+  "Reference": "ie2s0wW3ck2iPj7px2XSQQ/GRGfhyRaNUyWNKkIxOyF_A",
+  "ParentRef": "ie2s0wW3ck2iPj7px2XSQQ/yHE7cmEVk0O4yf1f6_PY-A",
+  "Created": "2025-04-16T10:37:20.2285111Z",
+  "Updated": "2025-04-16T10:37:20.2285111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

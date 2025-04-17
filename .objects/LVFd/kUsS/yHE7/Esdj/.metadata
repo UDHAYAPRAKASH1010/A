@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Transport Mode",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "EsdjOgAdNEyF1n_6L9md8g",
+  "Reference": "ie2s0wW3ck2iPj7px2XSQQ/EsdjOgAdNEyF1n_6L9md8g",
+  "ParentRef": "ie2s0wW3ck2iPj7px2XSQQ/yHE7cmEVk0O4yf1f6_PY-A",
+  "Created": "2025-04-16T10:40:28.7857206Z",
+  "Updated": "2025-04-16T10:40:28.7857206Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

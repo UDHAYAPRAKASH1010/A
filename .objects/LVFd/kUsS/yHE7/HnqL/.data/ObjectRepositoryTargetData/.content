@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d9G4FkyknEWzx7OzbUZC4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="ccf604e0-e19e-48db-b486-a26939aae402" CvElementArea="856, 349, 476, 48" CvType="InputBox" DesignTimeRectangle="858, 351, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='form-control' aaname='' /&gt;" Guid="fc312e6b-8b34-4316-b4c2-0728b2c9357f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ccf604e0-e19e-48db-b486-a26939aae402" CvTextArea="856, 324, 116, 16" CvTextArgument="Gate Entry No" CvType="Text" DesignTimeRectangle="858, 318, 115, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Gate Entry No' tag='LABEL' type='' class='form-label' check:innerText='Gate Entry No' /&gt;" Guid="5279442d-ad8b-4d99-8cdc-bfe826208126" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d420ce06374eceeacb1d33dafc22e2f9.png" xmlns="">0gzrjTwd85kKckG19KLDz8w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

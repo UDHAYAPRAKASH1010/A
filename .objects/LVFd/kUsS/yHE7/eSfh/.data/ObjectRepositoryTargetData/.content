@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8JfeD6U4YEu3Hh6G94tlGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="dc11bdb7-6536-4339-91a0-742bac3b4514" CvElementArea="1374, 754, 476, 48" CvType="InputBox" DesignTimeRectangle="1377, 756, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl class='form-control' type='text' aaname='' tag='INPUT' /&gt;" Guid="4bc9073e-d4fd-4f3a-9ecd-792c5a8a9946" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc11bdb7-6536-4339-91a0-742bac3b4514" CvTextArea="1375, 729, 95, 16" CvTextArgument="Contact No" CvType="Text" DesignTimeRectangle="1377, 723, 93, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Contact No' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Contact No' tag='LABEL' type='' class='form-label' check:innerText='Contact No' /&gt;" Guid="2a266479-c177-4553-a632-c79320e23511" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="646063d04990927986e420886fcd95dd.png" xmlns="">0EBJnzQkU5Uq7fD3tKjXAQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

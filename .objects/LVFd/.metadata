@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome UcalDemoAngular",
+  "Type": "App",
+  "Id": "LVFdx-0_jEyYKkIu1kHp1g",
+  "Reference": "ie2s0wW3ck2iPj7px2XSQQ/LVFdx-0_jEyYKkIu1kHp1g",
+  "Created": "2025-04-16T06:22:07.2767282Z",
+  "Updated": "2025-04-16T06:22:07.2767282Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

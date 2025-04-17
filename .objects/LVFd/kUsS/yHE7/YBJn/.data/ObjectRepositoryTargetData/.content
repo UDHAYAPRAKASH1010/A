@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="srRy1Goyz02IjLb_JJrdUw" Reference="ie2s0wW3ck2iPj7px2XSQQ/YBJnxyBDdEGi1DK3rqqB7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="8b5f0440-35a8-4987-96c4-d49254a89ac9" CvElementArea="855, 493, 476, 48" CvType="InputBox" DesignTimeRectangle="858, 506, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl class='dropdown-input' tag='DIV' type='' aaname='' /&gt;" Guid="bf57aa4e-4743-4e07-8776-bda46daadabd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8b5f0440-35a8-4987-96c4-d49254a89ac9" CvTextArea="855, 467, 140, 20" CvTextArgument="Transaction Type" CvType="Text" DesignTimeRectangle="858, 473, 136, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Transaction Type' tag='LABEL' type='' class='form-label' check:innerText='Transaction Type' /&gt;" Guid="85e54736-2eb4-42ed-bcd3-a80714101868" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="219612a0371ff4b8d72565836b080f52.png" xmlns="">0d6EL-ZtZ4kSfLbVWWYdqcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

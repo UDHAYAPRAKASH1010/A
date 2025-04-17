@@ -1,0 +1,14 @@
+﻿{
+  "Name": "GST No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "96HHaXZdwUyiI-05qYSKTg",
+  "Reference": "ie2s0wW3ck2iPj7px2XSQQ/96HHaXZdwUyiI-05qYSKTg",
+  "ParentRef": "ie2s0wW3ck2iPj7px2XSQQ/yHE7cmEVk0O4yf1f6_PY-A",
+  "Created": "2025-04-16T06:28:31.1766775Z",
+  "Updated": "2025-04-16T06:28:31.1766775Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

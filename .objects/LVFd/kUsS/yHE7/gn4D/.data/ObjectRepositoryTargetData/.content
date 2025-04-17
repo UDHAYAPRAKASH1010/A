@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qhGVt1ct_k-esYqbXOCgpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="c795b896-d074-40e0-b2f5-424a493a969c" CvElementArea="334, 754, 478, 48" CvType="InputBox" DesignTimeRectangle="338, 756, 473, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' class='form-control ng-untouched ng-pristine ng-valid' tag='INPUT' aaname='' /&gt;" Guid="f698f1af-0e9c-4326-bdd0-b19400726e07" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c795b896-d074-40e0-b2f5-424a493a969c" CvTextArea="336, 727, 71, 21" CvTextArgument="Supplier" CvType="Text" DesignTimeRectangle="338, 723, 68, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Supplier' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Supplier' tag='LABEL' type='' class='form-label' check:innerText='Supplier' /&gt;" Guid="1e75bb12-390f-46ae-9ee0-00186a8b0ee9" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6b5d6f07cb169bf8c7cb4f256994c71e.png" xmlns="">03WmUBScCpUKse4faXAIG8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

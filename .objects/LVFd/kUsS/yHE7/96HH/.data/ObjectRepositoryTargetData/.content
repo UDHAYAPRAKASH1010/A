@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sEDJI-JjIEe4l1LtKO5rqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="8f670931-e6c3-46fd-9ad1-3bc93fde9263" CvElementArea="1375, 782, 476, 50" CvType="InputBox" DesignTimeRectangle="1377, 785, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl class='form-control' css-selector='body&amp;gt;app-root&amp;gt;app-layout&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;app-gate-entry&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;input' idx='7' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl class='form-control' type='text' aaname='' tag='INPUT' /&gt;" Guid="c759c54a-62c4-46e5-b2f6-e9913e626265" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8f670931-e6c3-46fd-9ad1-3bc93fde9263" CvTextArea="1375, 757, 64, 16" CvTextArgument="GST No" CvType="Text" DesignTimeRectangle="1377, 752, 62, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='GST No' tag='LABEL' type='' class='form-label' check:innerText='GST No' /&gt;" Guid="2bd90ff2-389e-4f01-89e3-f2a562ef4b20" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6d0f122494f36fe2477bc739c4a43f41.png" xmlns="">0HdSxizGuyEu49W6FVr3OIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

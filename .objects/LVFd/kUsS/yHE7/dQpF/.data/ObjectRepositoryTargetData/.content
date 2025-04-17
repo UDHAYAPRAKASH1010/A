@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XLsZ2LfbKEqKjiYKvqo2Yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="4462e126-751f-44c0-b4c5-279d8251cfaa" CvElementArea="335, 707, 478, 48" CvType="InputBox" DesignTimeRectangle="338, 709, 473, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl class='form-control' type='text' aaname='' tag='INPUT' /&gt;" Guid="28ad76f5-3a48-4e72-af76-516578b6dc3b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4462e126-751f-44c0-b4c5-279d8251cfaa" CvTextArea="337, 680, 104, 16" CvTextArgument="Driver Name" CvType="Text" DesignTimeRectangle="338, 675, 103, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Driver Name' tag='LABEL' type='' class='form-label' check:innerText='Driver Name' /&gt;" Guid="a844cc86-0097-46a7-a8dc-e503e9db198c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cf42aa3ab79017db6e402e1eb2b1598e.png" xmlns="">0IjgQ8iYW4UOn4jcJ9Ns4KQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

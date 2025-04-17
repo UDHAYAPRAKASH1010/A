@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fGXJbJ6urkG36qjq63Y4Rw" Reference="ie2s0wW3ck2iPj7px2XSQQ/EXGWSQHkykeLEs7i5zNezQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="c92c2438-3648-4d35-aa0f-885d79717f9a" CvElementArea="856, 442, 475, 50" CvType="InputBox" DesignTimeRectangle="858, 510, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;app-root&amp;gt;app-layout&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;app-gate-entry&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;input' tag='INPUT' /&gt;" FuzzyAccuracy="0.59" FuzzySelectorArgument="&lt;webctrl type='text' tag='INPUT' class='form-control' placeholder='Select Transaction Type' aaname='' /&gt;" Guid="cfde904e-cff8-4ea2-8050-348b6e5692bb" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c92c2438-3648-4d35-aa0f-885d79717f9a" CvTextArea="855, 417, 140, 20" CvTextArgument="Transaction Type" CvType="Text" DesignTimeRectangle="858, 477, 136, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Transaction Type' tag='LABEL' type='' class='form-label' check:innerText='Transaction Type' /&gt;" Guid="eb5d99a1-d8da-444b-9869-214fd918da5e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="00ed8cf381b2248b4929c3b16267ca5f.png" xmlns="">0mMCFPZ_c6Eu-mIpnv7f_NA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

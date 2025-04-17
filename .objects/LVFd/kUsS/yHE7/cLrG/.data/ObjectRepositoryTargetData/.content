@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WP_bmtIi9UetdY_2bqL7Aw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="b08570e4-c720-4c1d-9391-d8c0bf2fe312" CvElementArea="335, 404, 478, 54" CvType="InputBox" DesignTimeRectangle="338, 407, 473, 48" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='form-control ng-valid ng-dirty ng-touched' aaname='' /&gt;" Guid="a0cf950a-7c1e-4d2d-8d3d-2a2a1ba0fda3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b08570e4-c720-4c1d-9391-d8c0bf2fe312" CvTextArea="336, 379, 161, 21" CvTextArgument="Organization Name" CvType="Text" DesignTimeRectangle="338, 374, 160, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='form-label' aaname='Organization Name' check:innerText='Organization Name' /&gt;" Guid="ed42b477-17e8-46e0-bed7-fb5117aa46ad" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cdbe3bfe2613aa177635c7ee621dd6de.png" xmlns="">0dufwkd8c60eZ3DlVxMGZzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

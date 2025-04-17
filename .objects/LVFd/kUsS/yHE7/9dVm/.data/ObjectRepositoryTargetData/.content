@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wXuJSwnXKECmqj4z7UEhOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="8b5f0440-35a8-4987-96c4-d49254a89ac9" CvElementArea="335, 493, 478, 52" CvType="InputBox" DesignTimeRectangle="338, 495, 473, 48" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl class='form-control' tag='SELECT' type='' aaname='' /&gt;" Guid="c94bfaa2-e041-4ecd-8199-ee560f0b27fd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8b5f0440-35a8-4987-96c4-d49254a89ac9" CvTextArea="336, 467, 175, 20" CvTextArgument="Transaction Category" CvType="Text" DesignTimeRectangle="338, 462, 173, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Transaction Category' tag='LABEL' type='' class='form-label' check:innerText='Transaction Category' /&gt;" Guid="47bd6143-1425-492e-b03d-2721030275f5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a9c71b5c6952fa22bf8008965318aa21.png" xmlns="">0-Ufp66ZewUGw7uvOZaCIdQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

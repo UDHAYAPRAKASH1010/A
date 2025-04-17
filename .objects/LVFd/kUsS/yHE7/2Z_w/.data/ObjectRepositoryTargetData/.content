@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UBthrKRk406lL6ba5T-ryA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="6d78dd07-1dcd-4857-adc5-3237baad35d2" CvElementArea="1374, 838, 476, 48" CvType="InputBox" DesignTimeRectangle="1377, 840, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl class='form-control' css-selector='body&amp;gt;app-root&amp;gt;app-layout&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;app-gate-entry&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;input' idx='6' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl class='form-control' type='text' aaname='' tag='INPUT' /&gt;" Guid="3b29a502-5147-4286-88b4-072eb05bab06" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6d78dd07-1dcd-4857-adc5-3237baad35d2" CvTextArea="1376, 811, 101, 20" CvTextArgument="Eway Bill No" CvType="Text" DesignTimeRectangle="1377, 806, 101, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Eway Bill No' tag='LABEL' type='' class='form-label' check:innerText='Eway Bill No' /&gt;" Guid="3989ff1d-fae7-494c-b715-8d22d151a0b2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c8b75cc10eaca38038311a42ea3f5e71.png" xmlns="">0LsL_xVxNLkOXKAEPVOwVkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zTTtw2ilrk-ZRzi1ir6Xdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/gate-entry" CVScreenId="6aded6a5-4f2e-4b97-bbd0-e2b3b457ffbe" CvElementArea="1374, 426, 477, 49" CvType="InputBox" DesignTimeRectangle="1377, 428, 472, 44" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' class='form-control ng-untouched ng-pristine ng-valid' tag='INPUT' aaname='' /&gt;" Guid="31ff4e27-a2b7-4b96-a602-9ff63a2191a5" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UcalDemoAngular' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6aded6a5-4f2e-4b97-bbd0-e2b3b457ffbe" CvTextArea="1376, 399, 155, 18" CvTextArgument="Reference Number" CvType="Text" DesignTimeRectangle="1377, 395, 153, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Reference Number' tag='LABEL' type='' class='form-label' check:innerText='Reference Number' /&gt;" Guid="0a8543ad-ef48-4a71-9bb5-fe90e9464706" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0eb82ab1f0409dce8b35303bc3a759cd.png" xmlns="">01dizmXjUNE2rTKsoLlPn0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
