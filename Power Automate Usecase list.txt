@@ -1,0 +1,92 @@
+Power Automate Desktop Use Cases (Attended/Unattended RPA)
+📩 Outlook / Email Automation
+Save attachments from Outlook emails to a local folder
+
+Auto-forward or reply to specific emails
+
+Extract data from emails and log into Excel or database
+
+📄 File & Folder Automation
+Rename bulk files based on naming convention
+
+Monitor folder for new files and move/copy/rename
+
+Merge PDF files or split PDFs
+
+📊 Excel Automation
+Extract rows from Excel and input into another app
+
+Compare two Excel sheets and highlight differences
+
+Generate reports by filtering Excel data
+
+🌐 Web Automation (UI Automation)
+Scrape data from websites (e.g., product prices, weather)
+
+Automate form filling on web portals
+
+Login to a website and download reports
+
+🏢 Windows / App Automation
+Automate SAP login and data entry
+
+Read data from legacy desktop apps (no APIs)
+
+Control Notepad, Calculator, or custom internal tools
+
+📠 Document Processing
+Extract text from PDF using OCR
+
+Classify documents (invoice vs. receipt)
+
+Convert scanned documents to Excel using AI Builder + PAD
+
+☁️ Cloud Flow Use Cases (Triggered by Events/APIs)
+📨 Communication / Notifications
+Send Teams message when a file is uploaded
+
+Notify manager when a form is submitted
+
+Schedule daily summary email of task status
+
+🧾 Forms & Approvals
+Leave request approval from Microsoft Forms
+
+Approval flow for expense reports
+
+Multi-level approval for new project proposals
+
+🗃️ Data Handling
+Auto-save Form responses to SharePoint/Excel
+
+Sync data between Excel and SharePoint lists
+
+Send reminders if SharePoint task is overdue
+
+🔁 Integration Automation
+Move attachments from Outlook to OneDrive
+
+When file added to Dropbox, copy to Google Drive
+
+Extract data from Power BI and email reports
+
+💡 Specialized/Advanced Use Cases
+📦 Inventory / ERP
+Extract inventory data and update Excel stock tracker
+
+Auto-reorder item when inventory is low
+
+🧑‍💼 HR & Employee Onboarding
+Automate employee onboarding with folder creation, emails, and form fills
+
+Send welcome kit with PDFs, tasks, Teams invite
+
+🧾 Finance / Invoicing
+Match invoice from email with database and mark paid
+
+Extract invoice number/date/amount from PDF invoices
+
+📆 Scheduling
+Send birthday wishes or work anniversaries automatically
+
+Schedule daily health checks for a system
